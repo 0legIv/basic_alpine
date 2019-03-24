@@ -1,0 +1,6 @@
+%{
+  "artificery": {:hex, :artificery, "0.4.1", "90b1fcedb9034853b36dbea2174f9fc1172bd50b0686a723178103def5c9c1c8", [:mix], [], "hexpm"},
+  "conform": {:hex, :conform, "2.5.2", "7035787a9c09d28607745444e7a1700426dc47c452634a5694033fa2fbb3414c", [:mix], [{:neotoma, "~> 1.7.3", [hex: :neotoma, repo: "hexpm", optional: false]}], "hexpm"},
+  "distillery": {:hex, :distillery, "2.0.12", "6e78fe042df82610ac3fa50bd7d2d8190ad287d120d3cd1682d83a44e8b34dfb", [:mix], [{:artificery, "~> 0.2", [hex: :artificery, repo: "hexpm", optional: false]}], "hexpm"},
+  "neotoma": {:hex, :neotoma, "1.7.3", "d8bd5404b73273989946e4f4f6d529e5c2088f5fa1ca790b4dbe81f4be408e61", [:rebar], [], "hexpm"},
+}
